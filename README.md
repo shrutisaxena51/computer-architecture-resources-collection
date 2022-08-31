@@ -56,7 +56,7 @@
 
 ###	Other resources ###
 
-###List of Hall of Fame Authors###
+### List of Hall of Fame Authors ###
 
 * [MICRO Computer Architecture Aggregated Hall-of-Fame](https://moin.ece.gatech.edu/cathof.html)
 
